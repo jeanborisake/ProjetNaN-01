@@ -1,0 +1,6 @@
+Le site que j'ai devéloppé est un reseau social de Tourisme où des personnes pourront 
+trouver des destinations tourisques et participer à des trips chaque week-end.
+
+Etant donné que nous n'avons pas encore étudié de language serveur alors ppour se 
+connecter à l'interface il vous suffira de cliquer sur connexion sans forcement
+entrer des données.
